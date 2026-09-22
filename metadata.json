@@ -1,0 +1,6 @@
+{
+  "name": "Digital Heroes - Golf & Charity Platform",
+  "description": "A subscription-driven golf performance tracking and monthly charity prize draw platform built according to the Digital Heroes Level 1 PRD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
